@@ -1,11 +1,9 @@
 package firts;
 
-public class Start {
+public class KJH {
 
 	public static void main(String[] args) {
-		System.out.println("tndkldnkdl");
-
-		
+		System.out.println("HIHI");
 	}
 
 }
