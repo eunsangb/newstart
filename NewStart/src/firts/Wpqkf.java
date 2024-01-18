@@ -1,11 +1,10 @@
 package firts;
 
-public class Start {
+public class Wpqkf {
 
 	public static void main(String[] args) {
-		System.out.println("tndkldnkdl");
+		System.out.println("TLqkf");
 
-		
 	}
 
 }
